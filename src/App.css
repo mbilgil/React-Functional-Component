@@ -1,0 +1,30 @@
+.App {
+  background-color: #0d47a1;
+  height: 100vh;
+  color: #FFFFFF;
+}
+
+.App img {
+  display: flex;
+  margin: auto;
+  padding-top: 1em;
+}
+
+.App button {
+  background-color: #6DB65B;
+  color: white;
+  border: none;
+  font-size: 1.25em;
+}
+
+.App button:hover {
+  background-color: #FAE0;
+  color: rgb(102, 110, 224);
+  border: none;
+  font-size: 1.25em;
+}
+
+.App form {
+  padding: 1em;
+  margin: 1em;
+}
